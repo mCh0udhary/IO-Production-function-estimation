@@ -1,0 +1,22 @@
+,,Estimate
+main,quality ,-0.0156763
+main,beta k,0.471719428
+main,beta l,0.317786715
+no quality,beta k,0.433344796
+no quality beta l,beta l,0.370853683
+OLS,constant,0.787882892
+OLS,quality ,-0.002644073
+OLS,beta k,0.457413662
+OLS,beta l,0.688470766
+OLS no quality,constant,0.785902255
+OLS no quality,beta k,0.460354969
+OLS no quality,beta l,0.686510497
+FE,quality ,-0.001946423
+FE,beta k,0.552964291
+FE,beta l,0.198193739
+FE no quality,beta k ,0.556808657
+FE no quality,beta l,0.197432139
+"main non-para (col 3, tab 7)",beta k,0.448802216
+"main non-para (col 3, tab 7)",beta l,0.309461567
+"main para (col 2, tab 7)",beta k,0.462092591
+"main para (col 2, tab 7)",beta l,0.311040723

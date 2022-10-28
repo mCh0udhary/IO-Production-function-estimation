@@ -1,0 +1,22 @@
+,,V1
+main,quality ,0.004338305
+main,beta k,0.041900748
+main,beta l,0.059814455
+no quality,beta k,0.03985686
+no quality beta l,beta l,0.064560496
+OLS,constant,0.032160727
+OLS,quality ,0.000443847
+OLS,beta k,0.021916584
+OLS,beta l,0.017268121
+OLS no quality,constant,0.033116901
+OLS no quality,beta k,0.022347647
+OLS no quality,beta l,0.017385727
+FE,quality ,0.000616268
+FE,beta k,0.311475658
+FE,beta l,0.010116092
+FE no quality,beta k ,0.317252313
+FE no quality,beta l,0.010466724
+"main non-para (col 3, tab 7)",beta k,0.052840935
+"main non-para (col 3, tab 7)",beta l,0.0562583
+"main para (col 2, tab 7)",beta k,0.045948591
+"main para (col 2, tab 7)",beta l,0.060985447
